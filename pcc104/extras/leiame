@@ -1,0 +1,49 @@
+PROGRAMAS:
+
+TEMPLATES
+01) Média interpolada com o operador ternário
+02) Ordenamento por bubble sort de letras e números
+BIBLIOTECA E TEMPLATES
+03) Gerando vetores e listas; ordenando estas últimas
+BIBLIOTECA E ÁRVORE BINÁRIA
+04) Atribuindo chaves aos nós -> precisamos estudar ponteiros  
+05) Tentativa de criar uma árvore de busca binária
+PERMUTAÇÃO
+06) Gerando permutações com vetores e listas - IMPORTANTE!
+PONTEIROS
+07) Compreendendo um ponteiro e para onde ele aponta
+08) Usando ponteiro para manipular arranjos/vetores
+09) Usando ponteiro para separar as colunas de uma matriz
+10) Alterando um elemento de matriz com o ponteiro
+CLASSES & STRUCT -> LISTA ENCADEADA
+11) Lista encadeada com struct e ponteiro
+12) Lista encadeada com classe e ponteiro
+13) Operador seta (->) no lugar do operador ponto (.)
+14) Busca em uma lista encadeada
+15) Ordenação de uma lista encadeada
+16) Inserção numa lista encadeada ordenada - ARRAY
+17) Inserção numa lista encadeada ordenada - ERROR
+18) Busca numa lista encadeada por POINTERS (malloc - vide 17)
+19) Inserção e busca numa lista encadeada - DEFINITIVO 
+20) Um exemplo muito SIMPLES de lista encadeada
+RECURSIVIDADE
+21) Número de Fibonacci
+22) Lista Encadeada SIMPLES
+ÁRVORE BINÁRIA
+23) Criar uma Árvore Binária com recursividade
+24) Criar uma Árvore Binária com iteratividade
+25) Árvore Binária de Busca - Processos de Busca
+26) Árvore Binária de Busca - Alterando um Dado
+27 e 28) Árvore com Class - Original (tentei) e Cópia
+GRAFOS
+29) GRAFO SIMPLES USANDO LIST
+30) GRAFO MAIS ELABORADO USANDO VECTOR<VECTOR>
+31) Manipulando listas e matrizes
+32) GRAFO sem DIREÇÃO com VECTOR<VECTOR>
+33) GRAFO sem DIREÇÃO com LIST<INT>
+34) GRAFO com DIREÇÃO com VECTOR<VECTOR>
+35) GRAFO com DIREÇÃO com LIST<INT>
+36) GRAFO usando MAP e LIST
+37) GRAFO usando MAP e VECTOR
+38) BST ->
+39) DST ->
